@@ -30,6 +30,6 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ),
     python_requires="~=3.0",
-    install_requires="openpyxl>=3.0.0",
+    install_requires="openpyxl>=2.5.4",
     keywords="excel testing robotframework robotframework-excellibrary robotframework-excellib"
 )
